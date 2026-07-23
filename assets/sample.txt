@@ -1,0 +1,42 @@
+================================================================================
+                    ST. JUDE CHILDREN'S RESEARCH HOSPITAL
+                         DEPARTMENT OF PHARMACY
+                    262 Danny Thomas Place, Memphis, TN
+================================================================================
+
+Date: July 22, 2026
+To: Quality Assurance & Regulatory Compliance Division
+    AIVOA Pharmaceuticals Inc.
+
+FORMAL PRODUCT QUALITY COMPLAINT & INCIDENT REPORT
+
+1. COMPLAINANT INFORMATION:
+   Complainant Name: Dr. Aris Thorne, PharmD
+   Facility Name: St. Jude Children's Research Hospital
+   Email: athorne@stjude-health.org
+   Phone: +1 (555) 019-2831
+
+2. PRODUCT & BATCH DETAILS:
+   Product Name: Ondansetron 2mg/mL Injection
+   Dosage Form / Packaging: 10 mL Type I Clear Glass Vials
+   Batch / Lot Number: ON88392
+   Manufacturing Date: 11/2025
+   Expiration Date: 11/2027
+   Affected Quantity: 24 Vials
+
+3. DEFECT DESCRIPTION & OBSERVATIONS:
+   During routine pre-administration visual inspection on July 21, 2026, 
+   clinical pharmacy staff identified visible particulate matter suspended 
+   within intact glass vials of Ondansetron 2mg/mL Injection (Lot #ON88392). 
+   The particles appear as dark, fiber-like floating contaminants. 
+
+4. IMMEDIATE ACTION TAKEN:
+   The remaining 200 vials from shipment Lot #ON88392 have been placed in 
+   quarantine at 2°C - 8°C in Central Pharmacy Room 3B pending formal Quality 
+   Assurance disposition and sample return instructions. No patient adverse 
+   events have been reported.
+
+Requested Action: Immediate investigation report and replacement lot dispatch.
+
+Sincerely,
+Dr. Aris Thorne, Chief Clinical Pharmacist
