@@ -49,6 +49,7 @@ AI Orchestration: LangGraph, LangChain, Groq API (llama-3.3-70b-versatile)
 Database: PostgreSQL (Docker Containerized)
 
 ## Directory Structure
+```
 aivoa-qms-complaints/
 ├── docker-compose.yml
 ├── README.md
@@ -68,7 +69,7 @@ aivoa-qms-complaints/
         ├── main.jsx
         ├── index.css
         └── complaintsSlice.js # Redux state management
-
+```
 
 ## Getting Started
 
