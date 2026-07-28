@@ -4,6 +4,9 @@ from typing import TypedDict, Optional, List, Dict, Any
 from langgraph.graph import StateGraph, END
 from langchain_groq import ChatGroq
 from langchain_core.messages import SystemMessage, HumanMessage
+from dotenv import load_dotenv
+
+load_dotenv()
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "your_groq_api_key_here")
 

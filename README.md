@@ -195,3 +195,6 @@ Expected Outcome: The AI parses structured metadata (Complainant Name, Facility,
 The screenshot below shows the complete AIVOA QMS interface with the Complaint Form and AI Co-pilot working together.
 
 ![AIVOA QMS Working UI](assets/screenshots/AIVOA-Pharma-QMS-Complaint-System-UI.png)
+
+![AIVOA QMS Demo](assets/AwesomeScreenshot-23_7_2026,10_03_11pm.mp4)
+
