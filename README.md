@@ -85,7 +85,7 @@ Groq API Key: Obtainable from Groq Console
 Step 1: Clone & Configure Repository
 
 ```
-git clone [https://github.com/YOUR_GITHUB_USERNAME/aivoa-qms-complaints.git](https://github.com/YOUR_GITHUB_USERNAME/aivoa-qms-complaints.git)
+git clone [https://github.com/shwet20/aivoa-qms-complaints.git](https://github.com/shwet20/aivoa-qms-complaints.git)
 cd aivoa-qms-complaints
 ```
 
